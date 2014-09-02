@@ -1,6 +1,3 @@
-TCC_Senai_Brusque
-=================
-
-Orientações para o Trabalho de Conclusão de Curso
+o
 
 Teste de software em PHP, técnica, ferramenta e ambiente

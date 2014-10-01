@@ -1,1 +1,1 @@
-Teste de software em PHP, técnica, ferramenta e ambiente
+Teste de software em PHP, técnicas, ferramentas e ambiente
